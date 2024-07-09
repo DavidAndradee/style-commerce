@@ -1,9 +1,9 @@
 # Olá, primeiramente acesse as minhas redes para mais conteúdo
 
-[Instagram](https://www.instagram.com/davidandraded.a/) 
-[Linkedin](https://www.linkedin.com/in/david-andrade-2253401b1/)  
-[Blog](https://lnkd.in/d8XUzzpq) 
-[Portifólio](https://davidandradee.github.io/portfolio_prototype/)
+- [Instagram](https://www.instagram.com/davidandraded.a/) 
+- [Linkedin](https://www.linkedin.com/in/david-andrade-2253401b1/)  
+- [Blog](https://lnkd.in/d8XUzzpq) 
+- [Portifólio](https://davidandradee.github.io/portfolio_prototype/)
 
 # Meteora - E-commerce de Moda
 
